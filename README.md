@@ -1,2 +1,2 @@
-# L2GFormer
-The code of  L2GFormer
+# LGLFormer
+The code of  LGLFormer
